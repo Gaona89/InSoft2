@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "84091389231",
+    "project_id": "ingesoft-160720"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84091389231:android:76578b398ab3ff29",
+        "android_client_info": {
+          "package_name": "com.example.arturo.ingsoft2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84091389231-v20p30pujtfb3us5phpo75f0edu4o34l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "84091389231-iqm0jtobf9e5nbaqce6bsdlflphk3u02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arturo.ingsoft2",
+            "certificate_hash": "1cd3c8a116831b943afda51e6536e8e7cf0a3945"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsRw6781DtCAJi5mDO6TP9ASwTrrWuj2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
